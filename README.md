@@ -7,5 +7,4 @@ This java program is a basic calculator with interface.
 - Entered numbers can be cleared
 - Numbers can be made negative
 <hr>
-<br>
 <b>The interface is built using Scene Builder</b>
