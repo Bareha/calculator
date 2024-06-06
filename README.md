@@ -6,6 +6,6 @@ This java program is a basic calculator with interface.
 - Addition, subtraction, division and multiplication is possible
 - Entered numbers can be cleared
 - Numbers can be made negative
-<br>
 <hr>
-The interface is built using Scene Builder
+<br>
+<b>The interface is built using Scene Builder</b>
