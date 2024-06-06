@@ -9,4 +9,4 @@ This java program is a basic calculator with interface.
 <hr>
 <b>The interface is built using Scene Builder</b>
 <br>
-<image src="interface_calc.png" style="border-style: solid, border-color: black, border-width: 3px">
+<image src="interface_calc.png" style="border-style: solid; border-color: black; border-width: 3px;">
